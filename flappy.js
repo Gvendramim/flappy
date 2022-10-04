@@ -156,3 +156,5 @@ function FlappyBird() {
 }
 
 new FlappyBird().start()
+
+//fim
