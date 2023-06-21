@@ -3,7 +3,7 @@ function novoElemento(tagName, className) {
     elem.className = className
     return elem
 }
-
+// Barreira
 function Barreira(reversa = false) {
     this.elemento = novoElemento('div', 'barreira')
 
